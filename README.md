@@ -1,2 +1,2 @@
-# Thailand-Hydroponics
-Build a hydroponics system in Thailand with TW colleagues
+# Hydroponics
+Build a hydroponics system with TW colleagues
